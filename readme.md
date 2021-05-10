@@ -1,5 +1,7 @@
 # KOALAzzz
 
+![Koala](./koala.jpg)
+
 MEME Coin. Fun. Sleep on the coinzzzz. 
 Wake up and stake. Go back to sleeeep.
 
