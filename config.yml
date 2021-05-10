@@ -1,14 +1,14 @@
 accounts:
   - name: alice
-    coins: ["1000token", "100000000stake"]
+    coins: ["1000koala"]
   - name: bob
-    coins: ["500token"]
+    coins: ["1000koala"]
 validator:
   name: alice
-  staked: "100000000stake"
+  staked: "1000koala"
 client:
   vuex:
     path: "vue/src/store"
 faucet:
   name: bob 
-  coins: ["5token"]
+  coins: ["2koala"]

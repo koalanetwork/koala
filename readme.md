@@ -1,26 +1,23 @@
-# koala
+# Koala
 
-**koala** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://github.com/tendermint/starport).
+MEME Coin. Fun. Sleep on the coinzzzz. 
+Wake up and stake. Go back to sleeeep.
 
-## Get started
+Coin is fa...zzzzt
 
-```
-starport serve
-```
+Coin has IBzzzz
 
-`serve` command installs dependencies, builds, initializes and starts your blockchain in development.
+Coin has finality fa..zzzt
 
-## Configure
+Koala is the most fun and meme implementation of the Cosmos SDK and Cosmoshub, built using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk). Koala and other Cosmos Hubs allow fully sovereign blockchains to interact with one another using a protocol called [IBC](https://github.com/cosmos/ics/tree/master/ibc) that enables Inter-Blockchain Communication.
 
-Your blockchain in development can be configured with `config.yml`. To learn more see the [reference](https://github.com/tendermint/starport#documentation).
+## Talk to us!
 
-## Launch
+We have fun, active, sometimes helpful communities on Twitter and Telegram.
 
-To launch your blockchain live on mutliple nodes use `starport network` commands. Learn more about [Starport Network](https://github.com/tendermint/spn).
+* [Twitter](https://twitter.com/koala_network)
+* [Telegram](https://t.me/cosmosproject)
 
-## Learn more
+## Genesis
 
-- [Starport](https://github.com/tendermint/starport)
-- [Cosmos SDK documentation](https://docs.cosmos.network)
-- [Cosmos SDK Tutorials](https://tutorials.cosmos.network)
-- [Discord](https://discord.gg/W8trcGV)
+Ask us.
