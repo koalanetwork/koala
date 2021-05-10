@@ -1,4 +1,4 @@
-# Koala
+# KOALAzzz
 
 MEME Coin. Fun. Sleep on the coinzzzz. 
 Wake up and stake. Go back to sleeeep.
