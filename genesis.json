@@ -82,7 +82,7 @@
     "crisis": {
       "constant_fee": {
         "amount": "1000",
-        "denom": "stake"
+        "denom": "ukoala"
       }
     },
     "distribution": {
